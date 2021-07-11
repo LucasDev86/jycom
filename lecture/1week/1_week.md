@@ -24,8 +24,8 @@
 ### 모바일 생태계
  - 안드로이드 VS 아이폰
  - 기업이 원하는 안드로이드 개발자
-<img src="naver.png" width="500"/>
-<img src="line.png" width="500"/>
+<img src="naver.PNG" width="500"/>
+<img src="line.PNG" width="500"/>
 
 ### 안드로이드 프로젝트 설명
  - 
