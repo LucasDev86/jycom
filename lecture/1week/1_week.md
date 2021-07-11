@@ -18,7 +18,7 @@
 
 <img src="3.jpg" width="900"/>
 <img src="4.jpg" width="900"/>
-<img src="5.png" width="900"/>
+<img src="5.png" width="500"/>
 
 
 ### 모바일 생태계
