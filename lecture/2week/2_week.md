@@ -22,11 +22,17 @@
   - 드래그를 통해서 ui 작성
 
 #### 1. LinearLayout 
-  - 실습
+  - 실습(1)
   - 요구사항
   - 화면에 동일한 사이즈 정사각형 TextView 각기 다른 색상 9개
 
 <img src="linear.png" width="400"/>
+  - 실습(2)
+  - 요구사항
+  - 화면에 비율에 맞게 다른 색상으로 구성
+
+<img src="https://github.com/LucasDev86/bdworld/blob/main/gui/linearlayout.jpg" width="400"/>
+
 
 #### 2. Relativelayout
   - 실습
