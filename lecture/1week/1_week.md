@@ -3,9 +3,12 @@
 
 ### 안드로이드 스튜디오 개발환경 구축
  - 안드로이드 스튜디오 설치(IDE 통합개발환경)하기
+ * 윈도우 사용자 계정에 한글이 포함되면 안됨.
  - 안드로이드 스튜디오 설정(SDK 다운로드 등)하기
  - AVD 설정
  - 스마트폰으로 실행
+ - 삼성 통합 USB 드라이버 : https://www.samsungsvc.co.kr/download
+ - LG 통합 USB 드라이버 : https://github.com/LucasDev86/jycom/blob/main/lecture/1week/lg_usb.exe
  - "Hello World" 첫 앱 실행하기
 
 ### 실무 개발자 업무 프로세스
