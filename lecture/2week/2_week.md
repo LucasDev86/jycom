@@ -24,11 +24,17 @@
 #### 1. LinearLayout 
   - 실습
 
+<img src="linear.png" width="900"/>
+
 #### 2. Relativelayout
   - 실습
 
+<img src="real.png" width="900"/>
+
 #### 3. FrameLayout
   - 실습
+
+<img src="frame.png" width="900"/>
 
 
 #### 4. ScrollView
