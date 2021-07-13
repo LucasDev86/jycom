@@ -62,7 +62,7 @@
 
 - 요구사항
 - ScrollView 사용하여 스크롤 되게 할 것.
-- 강아지 이미지 다운로드 ()
-- 사람 이미지 다운로드 ()
-- 유튜브 이미지 다운로드 ()
+- 강아지 이미지 다운로드 (https://github.com/LucasDev86/jycom/blob/main/lecture/2week/dog.png)
+- 사람 이미지 다운로드 (https://github.com/LucasDev86/jycom/blob/main/lecture/2week/boy.png)
+- 유튜브 이미지 다운로드 (https://github.com/LucasDev86/jycom/blob/main/lecture/2week/youtube.png)
 
