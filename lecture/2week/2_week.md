@@ -24,21 +24,21 @@
 #### 1. LinearLayout 
   - 실습
   - 요구사항
-  - 화면에 동일한 사이즈 정사각형 TextView 9개
+  - 화면에 동일한 사이즈 정사각형 TextView 각기 다른 색상 9개
 
 <img src="linear.png" width="400"/>
 
 #### 2. Relativelayout
   - 실습
   - 요구사항
-  - 100px 정사각형 TextView 9개
+  - 100px 정사각형 TextView 각기 다른 색상 9개
 
 <img src="real.png" width="400"/>
 
 #### 3. FrameLayout
   - 실습
   - 요구사항
-  - 300dp 정사각형 , 200dp 정사각형, 100dp 정사각형 TextView 중첩
+  - 300dp 정사각형 , 200dp 정사각형, 100dp 정사각형 TextView 각기 다른 색상 중첩
 
 <img src="frame.png" width="400"/>
 
