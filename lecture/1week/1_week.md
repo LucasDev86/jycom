@@ -1,29 +1,6 @@
 
 # 1주차
 
-### 안드로이드 스튜디오 개발환경 구축
- - 안드로이드 스튜디오 설치(IDE 통합개발환경)하기
- * 윈도우 사용자 계정에 한글이 포함되면 안됨.
- - 안드로이드 스튜디오 설정(SDK 다운로드 등)하기
- - AVD 설정
- - 스마트폰으로 실행
- - 삼성 통합 USB 드라이버 : https://www.samsungsvc.co.kr/download
- - LG 통합 USB 드라이버 : https://github.com/LucasDev86/jycom/blob/main/lecture/1week/lg_usb.exe
- - "Hello World" 첫 앱 실행하기
-
-### 실무 개발자 업무 프로세스
- - 요구사항 > 기획자 > 디자이너 > 개발자(서버) > 개발자(안드로이드) > 개발완료 > 검수 > 수정 > 검수 > 배포(스토어)
- - 기획자의 기획서
-
-<img src="1.png" width="900"/>
-<img src="2.png" width="900"/>
- 
- - 디자이너 가이드
-
-<img src="3.jpg" width="900"/>
-<img src="4.jpg" width="900"/>
-<img src="5.png" width="500"/>
-
 
 ### 모바일 생태계
  - 안드로이드 개발자란?
@@ -54,3 +31,28 @@
  - 여러 앱들간의 데이터를 공유하기 위한 목적 예를 들면 주소록 데이터가 필요하면 주소록 앱의 데이터를 얻을수 있다.
  ##### 브로드캐스트 리시버
  - 이벤트 모델로 수행되는 컴포넌트, 배터리 부족, 시스템 부팅 등 특정 이벤트가 발생되면 작성하는 컴포넌트
+
+### 안드로이드 스튜디오 개발환경 구축
+ - 안드로이드 스튜디오 설치(IDE 통합개발환경)하기
+ * 윈도우 사용자 계정에 한글이 포함되면 안됨.
+ - 안드로이드 스튜디오 설정(SDK 다운로드 등)하기
+ - AVD 설정
+ - 스마트폰으로 실행
+ - 삼성 통합 USB 드라이버 : https://www.samsungsvc.co.kr/download
+ - LG 통합 USB 드라이버 : https://github.com/LucasDev86/jycom/blob/main/lecture/1week/lg_usb.exe
+ - "Hello World" 첫 앱 실행하기
+
+### 실무 개발자 업무 프로세스
+ - 요구사항 > 기획자 > 디자이너 > 개발자(서버) > 개발자(안드로이드) > 개발완료 > 검수 > 수정 > 검수 > 배포(스토어)
+ - 기획자의 기획서
+
+<img src="1.png" width="900"/>
+<img src="2.png" width="900"/>
+ 
+ - 디자이너 가이드
+
+<img src="3.jpg" width="900"/>
+<img src="4.jpg" width="900"/>
+<img src="5.png" width="500"/>
+
+
