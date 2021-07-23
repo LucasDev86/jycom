@@ -15,8 +15,8 @@ layout_toLeftOf	 : 뷰(View)를 기준 뷰(Anchor View)의 왼쪽(Left)에 배�
 layout_above	: 뷰(View)를 기준 뷰(Anchor View)의 위(Above)에 배치.</br>
 layout_toRightOf	: 뷰(View)를 기준 뷰(Anchor View)의 오른쪽(Right)에 배치.</br>
 layout_below	: 뷰(View)를 기준 뷰(Anchor View)의 아래(Below)에 배치.</br>
-layout_toStartOf	: 뷰(View)를 기준 뷰(Anchor View)의 시작(Start)에 배치.v
-layout_toEndOf	: 뷰(View)를 기준 뷰(Anchor View)의 끝(End)에 배치.v
+layout_toStartOf	: 뷰(View)를 기준 뷰(Anchor View)의 시작(Start)에 배치.</br>
+layout_toEndOf	: 뷰(View)를 기준 뷰(Anchor View)의 끝(End)에 배치.</br>
 layout_alignParentLeft	: 뷰(View)를 부모(Parent) 영역 내에서 왼쪽(Left)에 배치.</br>
 layout_alignParentTop	: 뷰(View)를 부모(Parent) 영역 내에서 위쪽(Top)에 배치.</br>
 layout_alignParentRight	: 뷰(View)를 부모(Parent) 영역 내에서 오른쪽(Right)에 배치.</br>
