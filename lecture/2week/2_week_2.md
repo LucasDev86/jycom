@@ -67,5 +67,9 @@ public class Robot {
 ##### 객체
 - 클래스를 가지고 있으며 new 연산자를 통해 객체를 생성해서 사용할 수 있다.
 
+```
+void moveRight(){
 
+}
+```
 
