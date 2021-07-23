@@ -7,7 +7,16 @@
 - maxLine : 최대 라인수
 - ellipas
 
+
+#### EditText
+- innputType 
+- hint
+
+#### RadioButton
+
 #### padding , layout_margin
+
+#### visible 속성
 
 #### 
 
