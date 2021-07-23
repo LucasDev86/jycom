@@ -184,4 +184,15 @@ int showMe(int x, int y){
 
 ##### 불리언형
 - boolean : true or false
--
+
+##### 예약어
+- class, int , for , if 등을 예약어 또는 키워드 라고 한다, 이러한 이름은 이미 자바에서 예약되어 사용되는</br>
+- 이름이기 때문에 변수명으로 사용하면 안된다.
+
+##### 객체를 생성하는 방법
+- 선언 및 생성을 따로 한다.</br>
+- Robot robot;</br>
+- robot = new Robot();</br>
+- 선언 및 생성을 한번에 한다.</br>
+- Robot robot = new Robot();</br>
+- 이렇게 하면 Robot 클래스(설계도)를 통해 로봇이 만들어진다.</br>
