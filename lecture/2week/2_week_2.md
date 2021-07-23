@@ -7,6 +7,10 @@
 - maxLine : 최대 라인수
 - ellipas
 
+#### padding , layout_margin
+
+#### 
+
 #### Relativelayout
 -뷰(위젯)간의 관계를 정의하여 뷰의 위치를 배치하는 상대적 레이아웃</br>
 -이미 존재하는 뷰를 대상으로 새로운 뷰의 위치를 정하기 때문에 id가 필요하다</br>
@@ -31,3 +35,6 @@ layout_alignTop	: 뷰(View)의 위(Top)를 기준 뷰(View)의 위(Top)에 맞�
 layout_alignRight	: 뷰(View)의 오른쪽(Right)를 기준 뷰(View)의 오른쪽(Right)에 맞춤.</br>
 layout_alignBottom	: 뷰(View)의 아래(Bottom)를 기준 뷰(View)의 아래(Bottom)에 맞춤.</br>
 layout_alignBaseline	: 뷰(View)의 폰트 기준선(Baseline)을 기준 뷰(View)의 폰트 기준선(Baseline)에 맞춤.</br>
+
+#### CostraintLayout
+- Relativelayout과 비슷하며 개발자가 쉽게 UI를 2016년에 발표한 레이아웃.
