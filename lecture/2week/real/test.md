@@ -1,10 +1,10 @@
 ### 화면
-<img src="poto1.png" width="500"/>
+<img src="poto1.png" width="300"/>
 ### 가이드
 <img src="d_g_1.JPG" width="1000"/>
 
 ### 화면
-<img src="poto2.jpg" width="500"/>
+<img src="poto2.jpg" width="300"/>
 ### 가이드
 <img src="g_p_2.png" width="1000"/>
 
