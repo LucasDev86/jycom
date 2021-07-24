@@ -49,9 +49,19 @@
 <img src="frame.png" width="400"/>
 
 
-#### 4. ScrollView
+#### 4. GridLayout
+  - 격자형태로 배치하는 레이아웃.
+  - 가로 열의 개수와 세로 행의 개수 추가
+  - columCount="3" (가로=열)
+  - rowCount="2" (세로=행)
+  - 가로나 세로가 길어야 하는 경우 스팬을 사용
+  - columnSpan="2" (가로)
+  - rowSpan="2" (세로)
+  - 가운데 공백이 들어가려면 <Space android:layout_gravity="fll_horizontal" androiod:layout_rowSpan="3"/> 
 
-#### 5. ImageView
+#### 5. ScrollView
+
+#### 6. ImageView
 
 #### 무료로 아이콘 다운로드 받을수 있는 사이트 
  - https://www.flaticon.com/kr/
