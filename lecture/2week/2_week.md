@@ -21,7 +21,7 @@
   - 자바소스에서 뷰를 그릴수 있다
   - 드래그를 통해서 ui 작성
 
-#### 1. LinearLayout 
+#### 1. LinearLayout (https://lktprogrammer.tistory.com/132?category=741470)
   - 실습(1)
   - 요구사항
   - 화면에 동일한 사이즈 정사각형 TextView 각기 다른 색상 9개
@@ -34,14 +34,14 @@
 <img src="https://github.com/LucasDev86/bdworld/blob/main/gui/linearlayout.jpg" width="400"/>
 
 
-#### 2. Relativelayout
+#### 2. Relativelayout (https://lktprogrammer.tistory.com/133?category=741470)
   - 실습
   - 요구사항
   - 100px 정사각형 TextView 각기 다른 색상 9개
 
 <img src="real.png" width="400"/>
 
-#### 3. FrameLayout
+#### 3. FrameLayout (https://lktprogrammer.tistory.com/134?category=741470)
   - 실습
   - 요구사항
   - 300dp 정사각형 , 200dp 정사각형, 100dp 정사각형 TextView 각기 다른 색상 중첩
@@ -49,7 +49,7 @@
 <img src="frame.png" width="400"/>
 
 
-#### 4. GridLayout
+#### 4. GridLayout (https://lktprogrammer.tistory.com/136?category=741470)
   - 격자형태로 배치하는 레이아웃.
   - 가로 열의 개수와 세로 행의 개수 추가
   - columCount="3" (가로=열)
