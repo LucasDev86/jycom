@@ -31,6 +31,7 @@ alertDialog.show();
 
 1. Git 설치
 - (https://git-scm.com/downloads)
+- (https://coding-factory.tistory.com/245)
 
 ### 소스트리 다운로드
 ### 소스트리 이용해 소스 커밋
