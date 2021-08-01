@@ -37,4 +37,6 @@ alertDialog.show();
 - (https://www.sourcetreeapp.com/)
 ### 소스트리 이용해 소스 커밋
 
-
+(https://namget.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-Github%EC%97%90-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%86%8C%EC%8A%A4-%EC%98%AC%EB%A6%AC%EA%B8%B0)</br>
+</br>
+(https://ksb0511.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EC%B2%98%EC%9D%8C-GitHub%EC%97%90-%EC%98%AC%EB%A6%AC%EA%B8%B0)</br>
