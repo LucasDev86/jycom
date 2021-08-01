@@ -1,5 +1,5 @@
 
-# 4주차
+# 4주차 - 교재참조
 
 ### 5.2 다이얼로그 page 184
 #### 5.2.1 토스트(Toast)
@@ -21,10 +21,3 @@ alertDialog = builder.create();
 alertDialog.show();
 
 *setCancelable() 뒤로가기 눌렀을때 창이 닫히지 않게 하기 위해
-
-
-
-### UI 그리는 방법
-  - xml을 이용해 ui 만들기
-  - 자바소스에서 뷰를 그릴수 있다
-  - 드래그를 통해서 ui 작성
