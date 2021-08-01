@@ -11,11 +11,11 @@ t.show();
 
 AlertDialog.Builer builder = new AlertDialog.Builder(this);
 
-builder.setIcon(android.R.drawable.ic_dialog_alert);
-builder.setTitle("알림");
-builder.setMessage("정말 종료하시겠습니까?");
-builder.setPositiveButton("OK" , null);
-builder.setNegativeButton("No" , null);
+builder.setIcon(android.R.drawable.ic_dialog_alert);</br>
+builder.setTitle("알림");</br>
+builder.setMessage("정말 종료하시겠습니까?");</br>
+builder.setPositiveButton("OK" , null);</br>
+builder.setNegativeButton("No" , null);</br>
 
 alertDialog = builder.create();
 alertDialog.show();
