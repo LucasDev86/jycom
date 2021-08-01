@@ -21,3 +21,10 @@ alertDialog = builder.create();
 alertDialog.show();
 
 *setCancelable() 뒤로가기 눌렀을때 창이 닫히지 않게 하기 위해
+
+## 형상관리란?
+### 깃 회원가입
+### 깃 설정
+### 소스트리 다운로드
+### 소스트리 이용해 소스 커밋
+
