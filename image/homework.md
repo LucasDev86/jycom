@@ -13,8 +13,8 @@ Add a README file 추가
 <br/>
 
 아이콘 다운로드
-- <img src="icon.PNG" width="320"/>
-- <img src="intro.PNG" width="320"/>
+- <img src="icon.PNG" />
+- <img src="icon2.PNG" />
 
 ###  미니프로젝트 만들기
 ##
