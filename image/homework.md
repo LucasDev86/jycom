@@ -30,12 +30,12 @@ Language : Java<br/>
 ### [인트로 화면]
 <img src="intro.PNG" width="320"/>  
 * 이미지 사이즈
- - intro.PNG 
- -가로 : 200dp, 세로 : 150dp
+ - intro.PNG<br/> 
+ -가로 : 200dp, 세로 : 150dp<br/>
 * 시작하기 버튼(AppCompatButton) 
- -가로 : 300dp, 세로 : 40dp
- -배경색상 #878789
- -텍스트색상 #ffffff
+ -가로 : 300dp, 세로 : 40dp<br/>
+ -배경색상 #878789<br/>
+ -텍스트색상 #ffffff<br/>
   
 2. LoginActivity 로그인 화면
 ### [로그인 화면]
