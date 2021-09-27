@@ -36,7 +36,7 @@ Language : Java<br/>
  -가로 : 300dp, 세로 : 40dp<br/>
  -배경색상 #878789<br/>
  -텍스트색상 #ffffff<br/>
-  
+<br/>  
 2. LoginActivity 로그인 화면
 ### [로그인 화면]
 <img src="login.PNG" width="320"/>  
@@ -60,7 +60,7 @@ Language : Java<br/>
   -배경색상 : #FCD060<br/>
   -텍스트색상 : #000000<br/>
   -텍스트사이즈 : 15dp<br/>
-
+<br/>
 3. MainActivity 로그인 후 화면
 
 ### [메인 화면]
@@ -69,10 +69,10 @@ Language : Java<br/>
   - 오늘의 메뉴 & 오늘 수업시간표<br/>
   - 화면보고 비슷하게 작성<br/>
   - 칼라색은 #E83C77, #000000<br/>
-
+<br/>
 4. JoinActivity 회원가입 화면
 
-
+<br/>
 ### [회원가입 화면]
 <img src="join.PNG" width="320"/>  
   - EditText 높이는 45dp 고정<br/>
@@ -81,7 +81,7 @@ Language : Java<br/>
     - 텍스트 색상 #FFFFFF<br/>
 
 
-
+<br/>
 ### * 요구사항
 - 앱시작시 액티비티 : IntroActivity<br/>
 - IntroActivity 시작하기 버튼 클릭시 LoginActivity 실행<br/>
@@ -93,7 +93,7 @@ Language : Java<br/>
   아이디와 비밀번호가 틀리면 아이디와 비밀번호를 확인해주세요 토스트 문구<br/>
 - LoginActivity 회원가입 클릭시 JoinActivity 실행<br/>
 - JoinActivity 회원가입 클릭시 다이얼로그 실행<br/>
-
+<br/>
 ### [팝업 클릭 후]
 <img src="popup.PNG" width="320"/>
    
