@@ -7,3 +7,6 @@
 
 # 4주차
 (https://github.com/LucasDev86/jycom/blob/main/lecture/4week/4_week.md)
+
+# 간이프로젝트
+(https://github.com/LucasDev86/jycom/blob/main/image/homework.md)
