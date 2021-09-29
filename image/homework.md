@@ -81,7 +81,7 @@ Language : Java<br/>
 ### [회원가입 화면]
 <img src="join.PNG" width="320"/>  
   - EditText 높이는 45dp 고정<br/>
-  * AppCompatButton 버튼 <br/>
+   AppCompatButton 버튼 <br/>
     - 공통 배경색 #000000<br/>
     - 텍스트 색상 #FFFFFF<br/>
 
