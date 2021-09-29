@@ -12,9 +12,10 @@ Description (optional) : 안드로이드 로그인 기능 테스트
 Add a README file 추가
 <br/>
 
-아이콘 다운로드
-- <img src="icon.PNG" />
-- <img src="icon2.PNG" />
+아이콘 다운로드<br/>
+<img src="icon.PNG" />
+<br/>
+<img src="icon2.PNG" />
 
 ###  미니프로젝트 만들기
 ##
