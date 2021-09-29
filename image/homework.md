@@ -33,7 +33,7 @@ Language : Java<br/>
 총 4개 Activity<br/>
 1. IntroActivity 시작화면<br/>
 ### [인트로 화면]
-<img src="intro.PNG" width="320"/>  
+<img src="int.PNG" width="320"/>  
 * 이미지 사이즈
  - intro.PNG<br/> 
  -가로 : 200dp, 세로 : 150dp<br/>
